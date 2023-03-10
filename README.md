@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @LucasAlves12
-- 👀 I’m interested in learning a lot of languages
-- 🌱 I’m currently learning C and phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Lucas, i'm 19 years old, I study programming in my college and i'm graduating in Computer Engineering at UTFPR in Brazil. 
 
-<!---
-LucasAlves12/LucasAlves12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
