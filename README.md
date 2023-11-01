@@ -35,6 +35,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LucasAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-alves12)](www.linkedin.com/in/lucas-alves12)
+[![Linkedin](https://img.shields.io/badge/-LucasAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/lucas-alves12)]([www.linkedin.com/in/lucas-alves12](https://www.linkedin.com/in/lucas-alves12))
 [![Gmail Badge](https://img.shields.io/badge/-lucasantunesalves12@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasantunesalves12@hotmail.com)](mailto:lucasantunesalves12@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LucasAlves12)
